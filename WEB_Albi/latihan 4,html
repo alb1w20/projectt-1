@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: crimson;">
+    <div class="container">
+<header>
+    <img src="gambar/_118113808_bac4467e-78b3-4f98-9caf-d5723d7c27a6.jpg"
+     alt="gambar header"
+    width="100%" height="350px"
+    style="border-radius: 10px;">
+</header>
+<nav style="border: solid;
+borde-width: 0.2em;
+border-color: aqua;
+background-color: beige;">
+    <ul>
+        <li>HOM</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Javascript</li>
+    </ul>
+</nav>
+<section>
+    <h2>HTML</h2>
+    <article>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore velit ab similique reprehenderit at ipsa blanditiis voluptates eaque odit recusandae, numquam impedit nulla quis rerum dolorem, amet, magni quos fugiat.</p>
+        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt exercitationem consectetur ducimus labore iusto veniam est nostrum dolorum quaerat nulla quisquam deserunt, dignissimos dolores error unde voluptates cumque, nihil voluptas?</p>
+    </article>
+</section>
+<section>
+    <h2>CSS</h2>
+    <article>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore velit ab similique reprehenderit at ipsa blanditiis voluptates eaque odit recusandae, numquam impedit nulla quis rerum dolorem, amet, magni quos fugiat.</p>
+        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt exercitationem consectetur ducimus labore iusto veniam est nostrum dolorum quaerat nulla quisquam deserunt, dignissimos dolores error unde voluptates cumque, nihil voluptas?</p>
+    </article>
+</section>
+<section>
+    <h2>Javascript</h2>
+    <article>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore velit ab similique reprehenderit at ipsa blanditiis voluptates eaque odit recusandae, numquam impedit nulla quis rerum dolorem, amet, magni quos fugiat.</p>
+        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt exercitationem consectetur ducimus labore iusto veniam est nostrum dolorum quaerat nulla quisquam deserunt, dignissimos dolores error unde voluptates cumque, nihil voluptas?</p>
+    </article>
+</section>
+<footer>
+    <h5>Dibuat oleh Albi 2023</h5>
+</footer>
+
+
+
+    </div>
+</body>
+</html>
